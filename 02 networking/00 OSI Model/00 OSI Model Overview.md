@@ -1,4 +1,3 @@
-
 ### Summary
 
 - **Layers 1-4** focus on data transport.
