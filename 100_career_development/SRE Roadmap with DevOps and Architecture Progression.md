@@ -9,7 +9,7 @@
    - **Resources**: *The Linux Command Line* by William Shotts, Linux Foundation's Intro to Linux
 
 - [ ] **Networking Basics**
-   - [ ] OSI model
+   - [x] OSI model
    - [ ] TCP/IP, DNS, HTTP/HTTPS
    - [ ] SSL/TLS, load balancing
    - [ ] Firewall management
